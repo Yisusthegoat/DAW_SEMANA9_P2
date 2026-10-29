@@ -1,0 +1,226 @@
+[
+  {
+    "app": "PHP",
+    "method": "GET",
+    "url": "http://localhost/DAW_SEMANA9_GRUPAL/php-app/registros.php",
+    "status": 200,
+    "allow": null,
+    "location": null
+  },
+  {
+    "app": "PHP",
+    "method": "GET",
+    "url": "http://localhost/DAW_SEMANA9_GRUPAL/php-app/registro.php",
+    "status": 405,
+    "allow": "POST",
+    "location": null
+  },
+  {
+    "app": "PHP",
+    "method": "PUT",
+    "url": "http://localhost/DAW_SEMANA9_GRUPAL/php-app/registro.php",
+    "status": 405,
+    "allow": "POST",
+    "location": null
+  },
+  {
+    "app": "PHP",
+    "method": "OPTIONS",
+    "url": "http://localhost/DAW_SEMANA9_GRUPAL/php-app/registro.php",
+    "status": 405,
+    "allow": "POST",
+    "location": null
+  },
+  {
+    "app": "PHP",
+    "method": "HEAD",
+    "url": "http://localhost/DAW_SEMANA9_GRUPAL/php-app/registro.php",
+    "status": 405,
+    "allow": "POST",
+    "location": null
+  },
+  {
+    "app": "PHP",
+    "method": "POST",
+    "url": "http://localhost/DAW_SEMANA9_GRUPAL/php-app/registro.php",
+    "status": 400,
+    "allow": null,
+    "location": null
+  },
+  {
+    "app": "PHP",
+    "method": "POST",
+    "url": "http://localhost/DAW_SEMANA9_GRUPAL/php-app/registro.php",
+    "status": 400,
+    "allow": null,
+    "location": null
+  },
+  {
+    "app": "PHP",
+    "method": "POST",
+    "url": "http://localhost/DAW_SEMANA9_GRUPAL/php-app/registro.php",
+    "status": 400,
+    "allow": null,
+    "location": null
+  },
+  {
+    "app": "PHP",
+    "method": "POST",
+    "url": "http://localhost/DAW_SEMANA9_GRUPAL/php-app/registro.php",
+    "status": 400,
+    "allow": null,
+    "location": null
+  },
+  {
+    "app": "PHP",
+    "method": "POST",
+    "url": "http://localhost/DAW_SEMANA9_GRUPAL/php-app/registro.php",
+    "status": 400,
+    "allow": null,
+    "location": null
+  },
+  {
+    "app": "PHP",
+    "method": "POST",
+    "url": "http://localhost/DAW_SEMANA9_GRUPAL/php-app/registro.php",
+    "status": 303,
+    "allow": null,
+    "location": "registros.php"
+  },
+  {
+    "app": "PHP",
+    "method": "POST",
+    "url": "http://localhost/DAW_SEMANA9_GRUPAL/php-app/registro.php",
+    "status": 303,
+    "allow": null,
+    "location": "registros.php"
+  },
+  {
+    "app": "PHP",
+    "method": "POST",
+    "url": "http://localhost/DAW_SEMANA9_GRUPAL/php-app/registro.php",
+    "status": 303,
+    "allow": null,
+    "location": "registros.php"
+  },
+  {
+    "app": "PHP",
+    "method": "POST",
+    "url": "http://localhost/DAW_SEMANA9_GRUPAL/php-app/registro.php",
+    "status": 400,
+    "allow": null,
+    "location": null
+  },
+  {
+    "app": "JSP",
+    "method": "GET",
+    "url": "http://localhost:8080/contactos-grupal/registros.jsp",
+    "status": 200,
+    "allow": null,
+    "location": null
+  },
+  {
+    "app": "JSP",
+    "method": "GET",
+    "url": "http://localhost:8080/contactos-grupal/registro.jsp",
+    "status": 405,
+    "allow": "POST",
+    "location": null
+  },
+  {
+    "app": "JSP",
+    "method": "PUT",
+    "url": "http://localhost:8080/contactos-grupal/registro.jsp",
+    "status": 405,
+    "allow": "POST",
+    "location": null
+  },
+  {
+    "app": "JSP",
+    "method": "OPTIONS",
+    "url": "http://localhost:8080/contactos-grupal/registro.jsp",
+    "status": 405,
+    "allow": "POST",
+    "location": null
+  },
+  {
+    "app": "JSP",
+    "method": "HEAD",
+    "url": "http://localhost:8080/contactos-grupal/registro.jsp",
+    "status": 405,
+    "allow": "POST",
+    "location": null
+  },
+  {
+    "app": "JSP",
+    "method": "POST",
+    "url": "http://localhost:8080/contactos-grupal/registro.jsp",
+    "status": 400,
+    "allow": null,
+    "location": null
+  },
+  {
+    "app": "JSP",
+    "method": "POST",
+    "url": "http://localhost:8080/contactos-grupal/registro.jsp",
+    "status": 400,
+    "allow": null,
+    "location": null
+  },
+  {
+    "app": "JSP",
+    "method": "POST",
+    "url": "http://localhost:8080/contactos-grupal/registro.jsp",
+    "status": 400,
+    "allow": null,
+    "location": null
+  },
+  {
+    "app": "JSP",
+    "method": "POST",
+    "url": "http://localhost:8080/contactos-grupal/registro.jsp",
+    "status": 400,
+    "allow": null,
+    "location": null
+  },
+  {
+    "app": "JSP",
+    "method": "POST",
+    "url": "http://localhost:8080/contactos-grupal/registro.jsp",
+    "status": 400,
+    "allow": null,
+    "location": null
+  },
+  {
+    "app": "JSP",
+    "method": "POST",
+    "url": "http://localhost:8080/contactos-grupal/registro.jsp",
+    "status": 303,
+    "allow": null,
+    "location": "registros.jsp"
+  },
+  {
+    "app": "JSP",
+    "method": "POST",
+    "url": "http://localhost:8080/contactos-grupal/registro.jsp",
+    "status": 303,
+    "allow": null,
+    "location": "registros.jsp"
+  },
+  {
+    "app": "JSP",
+    "method": "POST",
+    "url": "http://localhost:8080/contactos-grupal/registro.jsp",
+    "status": 303,
+    "allow": null,
+    "location": "registros.jsp"
+  },
+  {
+    "app": "JSP",
+    "method": "POST",
+    "url": "http://localhost:8080/contactos-grupal/registro.jsp",
+    "status": 400,
+    "allow": null,
+    "location": null
+  }
+]

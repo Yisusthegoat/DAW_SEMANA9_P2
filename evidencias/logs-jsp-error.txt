@@ -1,0 +1,18 @@
+Fuente: D:/xampp/tomcat/logs/localhost.2026-10-29.log
+Extracto real de la prueba controlada.
+
+29-Oct-2026 09:49:46.616 SEVERE [http-nio-8080-exec-4] org.apache.catalina.core.ApplicationContext.log [contactos-grupal] Error inesperado
+	java.lang.RuntimeException: QA_CONTROLADO_500_JSP
+		at org.apache.jsp._005fqa_005ferror_jsp._jspService(_005fqa_005ferror_jsp.java:110)
+		at org.apache.jasper.runtime.HttpJspBase.service(HttpJspBase.java:70)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:583)
+		at org.apache.jasper.servlet.JspServletWrapper.service(JspServletWrapper.java:465)
+		at org.apache.jasper.servlet.JspServlet.serviceJspFile(JspServlet.java:383)
+		at org.apache.jasper.servlet.JspServlet.service(JspServlet.java:331)
+		at javax.servlet.http.HttpServlet.service(HttpServlet.java:583)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:212)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:156)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:181)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:156)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:168)

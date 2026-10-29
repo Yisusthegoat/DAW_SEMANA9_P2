@@ -1,0 +1,10 @@
+<%!
+private String escapar(String valor) {
+    return valor.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
+        .replace("\"", "&quot;").replace("'", "&#039;");
+}
+private String normalizar(String valor) {
+    return valor == null ? "" : valor.replaceAll("^[\\s\\p{Z}]+|[\\s\\p{Z}]+$", "");
+}
+%>
+<% response.setHeader("Cache-Control", "no-store"); response.setHeader("X-Content-Type-Options", "nosniff"); %>

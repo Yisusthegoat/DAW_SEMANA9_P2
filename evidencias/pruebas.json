@@ -1,0 +1,233 @@
+{
+  "fecha": "2026-10-29T14:49:21.696Z",
+  "results": [
+    {
+      "app": "PHP",
+      "prueba": "Lista vacía",
+      "resultado": "PASS",
+      "detalle": 200
+    },
+    {
+      "app": "PHP",
+      "prueba": "Método GET",
+      "resultado": "PASS",
+      "detalle": "405 Allow=POST"
+    },
+    {
+      "app": "PHP",
+      "prueba": "Método PUT",
+      "resultado": "PASS",
+      "detalle": "405 Allow=POST"
+    },
+    {
+      "app": "PHP",
+      "prueba": "Método OPTIONS",
+      "resultado": "PASS",
+      "detalle": "405 Allow=POST"
+    },
+    {
+      "app": "PHP",
+      "prueba": "Método HEAD",
+      "resultado": "PASS",
+      "detalle": "405 Allow=POST"
+    },
+    {
+      "app": "PHP",
+      "prueba": "Vacíos",
+      "resultado": "PASS",
+      "detalle": 400
+    },
+    {
+      "app": "PHP",
+      "prueba": "Espacios",
+      "resultado": "PASS",
+      "detalle": 400
+    },
+    {
+      "app": "PHP",
+      "prueba": "Correo inválido",
+      "resultado": "PASS",
+      "detalle": 400
+    },
+    {
+      "app": "PHP",
+      "prueba": "Nombre largo",
+      "resultado": "PASS",
+      "detalle": 400
+    },
+    {
+      "app": "PHP",
+      "prueba": "Correo largo",
+      "resultado": "PASS",
+      "detalle": 400
+    },
+    {
+      "app": "PHP",
+      "prueba": "Registro válido 1",
+      "resultado": "PASS",
+      "detalle": "303 registros.php"
+    },
+    {
+      "app": "PHP",
+      "prueba": "Registro válido 2",
+      "resultado": "PASS",
+      "detalle": "303 registros.php"
+    },
+    {
+      "app": "PHP",
+      "prueba": "Dos contactos y UTF-8",
+      "resultado": "PASS",
+      "detalle": 2
+    },
+    {
+      "app": "PHP",
+      "prueba": "Normalización",
+      "resultado": "PASS",
+      "detalle": "Se eliminan espacios exteriores"
+    },
+    {
+      "app": "PHP",
+      "prueba": "Actualizar sin duplicar",
+      "resultado": "PASS",
+      "detalle": "2 registros después de GET"
+    },
+    {
+      "app": "PHP",
+      "prueba": "XSS escapado",
+      "resultado": "PASS",
+      "detalle": "Etiqueta presentada como texto, sin ejecución"
+    },
+    {
+      "app": "PHP",
+      "prueba": "Vista móvil",
+      "resultado": "PASS",
+      "detalle": "390 px sin desbordamiento de página"
+    },
+    {
+      "app": "PHP",
+      "prueba": "Nueva sesión independiente",
+      "resultado": "PASS",
+      "detalle": "Sin cookies anteriores"
+    },
+    {
+      "app": "PHP",
+      "prueba": "Error conserva contactos",
+      "resultado": "PASS",
+      "detalle": "3 contactos conservados"
+    },
+    {
+      "app": "JSP",
+      "prueba": "Lista vacía",
+      "resultado": "PASS",
+      "detalle": 200
+    },
+    {
+      "app": "JSP",
+      "prueba": "Método GET",
+      "resultado": "PASS",
+      "detalle": "405 Allow=POST"
+    },
+    {
+      "app": "JSP",
+      "prueba": "Método PUT",
+      "resultado": "PASS",
+      "detalle": "405 Allow=POST"
+    },
+    {
+      "app": "JSP",
+      "prueba": "Método OPTIONS",
+      "resultado": "PASS",
+      "detalle": "405 Allow=POST"
+    },
+    {
+      "app": "JSP",
+      "prueba": "Método HEAD",
+      "resultado": "PASS",
+      "detalle": "405 Allow=POST"
+    },
+    {
+      "app": "JSP",
+      "prueba": "Vacíos",
+      "resultado": "PASS",
+      "detalle": 400
+    },
+    {
+      "app": "JSP",
+      "prueba": "Espacios",
+      "resultado": "PASS",
+      "detalle": 400
+    },
+    {
+      "app": "JSP",
+      "prueba": "Correo inválido",
+      "resultado": "PASS",
+      "detalle": 400
+    },
+    {
+      "app": "JSP",
+      "prueba": "Nombre largo",
+      "resultado": "PASS",
+      "detalle": 400
+    },
+    {
+      "app": "JSP",
+      "prueba": "Correo largo",
+      "resultado": "PASS",
+      "detalle": 400
+    },
+    {
+      "app": "JSP",
+      "prueba": "Registro válido 1",
+      "resultado": "PASS",
+      "detalle": "303 registros.jsp"
+    },
+    {
+      "app": "JSP",
+      "prueba": "Registro válido 2",
+      "resultado": "PASS",
+      "detalle": "303 registros.jsp"
+    },
+    {
+      "app": "JSP",
+      "prueba": "Dos contactos y UTF-8",
+      "resultado": "PASS",
+      "detalle": 2
+    },
+    {
+      "app": "JSP",
+      "prueba": "Normalización",
+      "resultado": "PASS",
+      "detalle": "Se eliminan espacios exteriores"
+    },
+    {
+      "app": "JSP",
+      "prueba": "Actualizar sin duplicar",
+      "resultado": "PASS",
+      "detalle": "2 registros después de GET"
+    },
+    {
+      "app": "JSP",
+      "prueba": "XSS escapado",
+      "resultado": "PASS",
+      "detalle": "Etiqueta presentada como texto, sin ejecución"
+    },
+    {
+      "app": "JSP",
+      "prueba": "Vista móvil",
+      "resultado": "PASS",
+      "detalle": "390 px sin desbordamiento de página"
+    },
+    {
+      "app": "JSP",
+      "prueba": "Nueva sesión independiente",
+      "resultado": "PASS",
+      "detalle": "Sin cookies anteriores"
+    },
+    {
+      "app": "JSP",
+      "prueba": "Error conserva contactos",
+      "resultado": "PASS",
+      "detalle": "3 contactos conservados"
+    }
+  ]
+}

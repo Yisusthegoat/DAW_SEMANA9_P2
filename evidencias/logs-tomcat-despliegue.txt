@@ -1,0 +1,5 @@
+Fuente: D:/xampp/tomcat/logs/catalina.2026-10-29.log
+Extracto real, recogido 29/10/2026.
+
+29-Oct-2026 09:47:47.052 INFO [localhost-startStop-2] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [D:\xampp\tomcat\webapps\contactos-grupal] de la aplicación web
+29-Oct-2026 09:47:47.131 INFO [localhost-startStop-2] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\xampp\tomcat\webapps\contactos-grupal] has finished in [78] ms

@@ -1,0 +1,5 @@
+Fuente: D:/xampp/apache/logs/error.log
+Extracto real de la prueba controlada.
+
+[Thu Oct 29 09:41:21.183842 2026] [mpm_winnt:notice] [pid 13796:tid 364] AH00354: Child: Starting 150 worker threads.
+[Thu Oct 29 09:49:46.488590 2026] [php:notice] [pid 13796:tid 1888] [client ::1:54895] [contactos-grupal] RuntimeException: QA_CONTROLADO_500_PHP in D:\\xampp\\htdocs\\DAW_SEMANA9_P2\\tmp\\qa_error.php:3\nStack trace:\n#0 {main}

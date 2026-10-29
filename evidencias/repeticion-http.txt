@@ -1,0 +1,33 @@
+PASS: PHP lista vacía
+PASS: PHP método GET
+PASS: PHP método PUT
+PASS: PHP método OPTIONS
+PASS: PHP método HEAD
+PASS: PHP vacíos
+PASS: PHP espacios
+PASS: PHP correo inválido
+PASS: PHP nombre largo
+PASS: PHP correo largo
+PASS: PHP registro 1
+PASS: PHP registro 2
+PASS: PHP conserva dos contactos y UTF-8
+PASS: PHP actualizar no duplica
+PASS: PHP escape HTML
+PASS: PHP sesión nueva
+PASS: JSP lista vacía
+PASS: JSP método GET
+PASS: JSP método PUT
+PASS: JSP método OPTIONS
+PASS: JSP método HEAD
+PASS: JSP vacíos
+PASS: JSP espacios
+PASS: JSP correo inválido
+PASS: JSP nombre largo
+PASS: JSP correo largo
+PASS: JSP registro 1
+PASS: JSP registro 2
+PASS: JSP conserva dos contactos y UTF-8
+PASS: JSP actualizar no duplica
+PASS: JSP escape HTML
+PASS: JSP sesión nueva
+32 comprobaciones HTTP correctas. No fuerza errores 500 ni sustituye la inspección visual.

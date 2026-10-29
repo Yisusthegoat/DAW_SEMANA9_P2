@@ -1,0 +1,17 @@
+<%@ page contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" errorPage="error.jsp" %>
+<!DOCTYPE html>
+<html lang="es"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Nuevo contacto | Contactos</title><link rel="stylesheet" href="assets/styles.css"></head>
+<body><main class="card"><p class="eyebrow">CAMPUS · REGISTRO DE CONTACTO</p>
+
+<span class="badge">Semana 09 · JSP</span><h1>Conectemos.<br>Un contacto a la vez.</h1>
+<p class="intro">Registra un nombre y un correo. Cada contacto se suma a la lista de esta sesión.</p>
+<form method="post" action="registro.jsp" accept-charset="UTF-8">
+<label for="nombre">Nombre completo</label>
+<input id="nombre" name="nombre" type="text" autocomplete="name" placeholder="Ej. María Torres" required maxlength="100">
+<label for="correo">Correo electrónico</label>
+<input id="correo" name="correo" type="email" autocomplete="email" placeholder="tu.nombre@universidad.edu.pe" required maxlength="254">
+<button type="submit">Registrar contacto <span aria-hidden="true">→</span></button></form>
+<a class="secondary" href="registros.jsp">Ver contactos de la sesión</a>
+<p class="footnote">Todos los campos son obligatorios. PHP y JSP conservan listas independientes.</p>
+</main></body></html>

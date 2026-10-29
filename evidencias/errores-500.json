@@ -1,0 +1,16 @@
+[
+  {
+    "url": "http://localhost/DAW_SEMANA9_P2/tmp/qa_error.php",
+    "status": 500,
+    "generico": true,
+    "sinDetalle": true,
+    "body": "<!DOCTYPE html><html lang=\"es\"><meta charset=\"UTF-8\"><title>Error</title><h1>No pudimos completar la solicitud.</h1><p>Inténtalo más tarde.</p><a href=\"index.html\">Volver al formulario</a></html>"
+  },
+  {
+    "url": "http://localhost:8080/contactos-grupal/_qa_error.jsp",
+    "status": 500,
+    "generico": true,
+    "sinDetalle": true,
+    "body": "\r\n\r\n<!DOCTYPE html>\r\n<html lang=\"es\"><head><meta charset=\"UTF-8\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\r\n<title>Error | Contactos</title><link rel=\"stylesheet\" href=\"assets/styles.css\"></head>\r\n<body><main class=\"card\"><p class=\"eyebrow\">CAMPUS · REGISTRO DE CONTACTO</p>\r\n<h1>No pudimos completar la solicitud.</h1><p class=\"intro\">Inténtalo más tarde.</p><a class=\"button\" href=\"index.jsp\">Volver al formulario</a></main></body></html>\r\n"
+  }
+]
